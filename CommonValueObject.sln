@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonValueObject", "CommonValueObject\CommonValueObject.csproj", "{9C105E67-D707-4BF4-9C0C-83019564DFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonValueObjectTests", "CommonValueObjectTests\CommonValueObjectTests.csproj", "{1569131A-8F32-4645-9B31-3A0336AE697C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C105E67-D707-4BF4-9C0C-83019564DFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C105E67-D707-4BF4-9C0C-83019564DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C105E67-D707-4BF4-9C0C-83019564DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C105E67-D707-4BF4-9C0C-83019564DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1569131A-8F32-4645-9B31-3A0336AE697C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1569131A-8F32-4645-9B31-3A0336AE697C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1569131A-8F32-4645-9B31-3A0336AE697C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1569131A-8F32-4645-9B31-3A0336AE697C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A59B2F-7718-4EDA-8FFE-AEF4345623A0}
+	EndGlobalSection
+EndGlobal
